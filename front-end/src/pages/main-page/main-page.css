@@ -1,0 +1,19 @@
+.display-term-top-row{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.display-term-top-button{
+    width: 200px;
+}
+
+.add-term-text-field{
+    margin: 20px;
+}
+
+.add-term-root{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
